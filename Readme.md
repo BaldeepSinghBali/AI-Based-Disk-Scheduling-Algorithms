@@ -68,7 +68,7 @@ Recommended Algorithm: SSTF
 
 The program generates a graph comparing all algorithms:
 
-```
+
 ![Output Graph](disk_scheduling.png)
 
 ---
